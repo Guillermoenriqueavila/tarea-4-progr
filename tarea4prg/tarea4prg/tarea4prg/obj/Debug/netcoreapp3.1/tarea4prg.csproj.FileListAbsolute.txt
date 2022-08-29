@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\bin\Debug\netcoreapp3.1\tarea4prg.exe
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\bin\Debug\netcoreapp3.1\tarea4prg.deps.json
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\bin\Debug\netcoreapp3.1\tarea4prg.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\bin\Debug\netcoreapp3.1\tarea4prg.runtimeconfig.dev.json
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\bin\Debug\netcoreapp3.1\tarea4prg.dll
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\bin\Debug\netcoreapp3.1\tarea4prg.pdb
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\obj\Debug\netcoreapp3.1\tarea4prg.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\obj\Debug\netcoreapp3.1\tarea4prg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\obj\Debug\netcoreapp3.1\tarea4prg.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\obj\Debug\netcoreapp3.1\tarea4prg.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\obj\Debug\netcoreapp3.1\tarea4prg.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\obj\Debug\netcoreapp3.1\tarea4prg.dll
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\obj\Debug\netcoreapp3.1\tarea4prg.pdb
+C:\Users\MINEDUCYT\Desktop\tarea4prg\tarea4prg\tarea4prg\obj\Debug\netcoreapp3.1\tarea4prg.genruntimeconfig.cache
