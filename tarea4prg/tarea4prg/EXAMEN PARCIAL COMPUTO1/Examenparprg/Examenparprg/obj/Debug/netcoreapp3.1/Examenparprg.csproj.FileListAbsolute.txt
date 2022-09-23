@@ -1,0 +1,14 @@
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\bin\Debug\netcoreapp3.1\Examenparprg.exe
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\bin\Debug\netcoreapp3.1\Examenparprg.deps.json
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\bin\Debug\netcoreapp3.1\Examenparprg.runtimeconfig.json
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\bin\Debug\netcoreapp3.1\Examenparprg.runtimeconfig.dev.json
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\bin\Debug\netcoreapp3.1\Examenparprg.dll
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\bin\Debug\netcoreapp3.1\Examenparprg.pdb
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\obj\Debug\netcoreapp3.1\Examenparprg.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\obj\Debug\netcoreapp3.1\Examenparprg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\obj\Debug\netcoreapp3.1\Examenparprg.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\obj\Debug\netcoreapp3.1\Examenparprg.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\obj\Debug\netcoreapp3.1\Examenparprg.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\obj\Debug\netcoreapp3.1\Examenparprg.dll
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\obj\Debug\netcoreapp3.1\Examenparprg.pdb
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\tarea4prg\tarea4prg\EXAMEN PARCIAL COMPUTO1\Examenparprg\Examenparprg\obj\Debug\netcoreapp3.1\Examenparprg.genruntimeconfig.cache

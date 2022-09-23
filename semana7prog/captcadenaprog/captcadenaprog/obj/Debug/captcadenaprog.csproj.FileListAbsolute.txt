@@ -1,0 +1,10 @@
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\semana7prog\captcadenaprog\captcadenaprog\bin\Debug\captcadenaprog.exe.config
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\semana7prog\captcadenaprog\captcadenaprog\bin\Debug\captcadenaprog.exe
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\semana7prog\captcadenaprog\captcadenaprog\bin\Debug\captcadenaprog.pdb
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\semana7prog\captcadenaprog\captcadenaprog\obj\Debug\captcadenaprog.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\semana7prog\captcadenaprog\captcadenaprog\obj\Debug\captcadenaprog.Form1.resources
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\semana7prog\captcadenaprog\captcadenaprog\obj\Debug\captcadenaprog.Properties.Resources.resources
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\semana7prog\captcadenaprog\captcadenaprog\obj\Debug\captcadenaprog.csproj.GenerateResource.cache
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\semana7prog\captcadenaprog\captcadenaprog\obj\Debug\captcadenaprog.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\semana7prog\captcadenaprog\captcadenaprog\obj\Debug\captcadenaprog.exe
+C:\Users\guill\OneDrive\Escritorio\tareasprgcmpt1\semana7prog\captcadenaprog\captcadenaprog\obj\Debug\captcadenaprog.pdb
